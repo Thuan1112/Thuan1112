@@ -79,7 +79,7 @@ https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://www.instagram.com/tony.ng.l.1112/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thuannl-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:thuannl1112@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thuannl-email" />
   </a>
 </div>
