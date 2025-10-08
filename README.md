@@ -49,9 +49,6 @@ https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thuannl-email" />
   </a>
 </div>
-
-<br>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
@@ -59,4 +56,3 @@ https://github.com/anuraghazra/github-readme-stats -->
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="NguyenLeThuan" />
 </a>
 
-# TemplateGitProfile
