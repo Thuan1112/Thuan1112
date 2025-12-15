@@ -18,11 +18,6 @@
 </span>
 &nbsp;
 <span>
- <img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft&logoColor=5E5E5E" height="25" />
-
-</span>
-&nbsp;
-<span>
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
        title="JavaScript" height="25" />
 </span>
@@ -30,6 +25,10 @@
 <span>
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032"
        title="Git" height="25" />
+</span>
+&nbsp;
+<span>
+ <img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft&logoColor=5E5E5E" height="25" />
 </span>
 &nbsp;
 <span>
