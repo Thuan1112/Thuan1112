@@ -18,8 +18,8 @@
 </span>
 &nbsp;
 <span>
-  <img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1"
-       title="SQL" height="25" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927"
+       title="Microsoft SQL Server" height="25" />
 </span>
 &nbsp;
 <span>
