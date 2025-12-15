@@ -6,12 +6,43 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+
+<span>
+  <img src="https://img.shields.io/badge/Manual%20Testing-282C34?logo=checkmarx&logoColor=00E676"
+       title="Manual Testing" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37"
+       title="Postman" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1"
+       title="SQL" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
+       title="JavaScript" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032"
+       title="Git" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"
+       title="VS Code" height="25" />
+</span>
+
+<!-- <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
+&nbsp; -->
 <!-- <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 https://github.com/anuraghazra/github-readme-stats -->
